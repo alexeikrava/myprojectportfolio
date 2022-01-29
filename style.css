@@ -99,3 +99,11 @@ nav a{
 	width: 350px;
 	left: 650px;
 }
+
+.fa-5x{
+	top: 50px;
+	position: absolute;
+	width: 10px;
+	height: 41px;
+	left: 1251px;
+}
